@@ -35,7 +35,7 @@ export default function LeadsPage() {
   };
 
   return (
-    <div className="min-h-screen bg-gray-100 py-12 px-4 flex justify-center">
+    <div className="min-h-screen  py-12 px-4 flex justify-center">
       <div className="w-full max-w-6xl bg-white rounded-2xl shadow-xl p-10">
         <h1 className="text-4xl font-bold text-gray-800 mb-10">
           Leads Dashboard
